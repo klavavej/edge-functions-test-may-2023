@@ -26,7 +26,7 @@
   path = "/*"
 
 [[edge_functions]]
-  path = "/hello"
+  pattern = "/products/n[eo]w/*"
   function = "hello"
 
 [[edge_functions]]
